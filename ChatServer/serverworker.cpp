@@ -42,7 +42,7 @@ void ServerWorker::sendMessage(const QString &text, const QString &type)
 
         QJsonObject message;
         message["type"] = type;
-        message["type"] = text;
+        message["text"] = text;
 
         serverStream << QJsonDocument(message).toJson();
     }
