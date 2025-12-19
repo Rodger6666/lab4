@@ -24,6 +24,7 @@ void MainWindow::on_startStopButton_clicked()
         ui->startStopButton->setText("启动服务器");
         logMessage("服务器已经停止");
     }
+
 }
 
 void MainWindow::logMessage(const QString &msg)
