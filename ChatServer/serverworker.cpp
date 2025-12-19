@@ -45,6 +45,8 @@ void ServerWorker::onReadyRead()
                     emit jsonReceived(this, jsonDoc.object());
                 }
             }
+
+
         }else{
             break;
         }
