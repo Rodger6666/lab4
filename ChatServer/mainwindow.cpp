@@ -37,3 +37,4 @@ void MainWindow::logMessage(const QString &msg)
 {
     ui->logEditor->appendPlainText(msg);
 }
+//

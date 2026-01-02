@@ -95,5 +95,5 @@ void ChatServer::userDisconnected(ServerWorker *sender)
         emit logMessage(userName + "disconnected");
     }
     sender->deleteLater();
-}
+}//
 
