@@ -61,4 +61,3 @@ void ChatClient::disconnectFromHost()
 {
     m_clientSocket->disconnectFromHost();
 }
-//
