@@ -78,4 +78,4 @@ void ServerWorker::sendJson(const QJsonObject &json)
     socketStream.setVersion(QDataStream::Qt_6_7);
     socketStream << jsonData;
 }
-//
+

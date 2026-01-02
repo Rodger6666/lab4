@@ -114,4 +114,4 @@ void MainWindow::userListReceived(const QStringList &list)
     ui->userListWidget->clear();
     ui->userListWidget->addItems(list);
 }
-//
+
