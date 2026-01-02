@@ -27,4 +27,3 @@ public slots:
 };
 
 #endif // CHATSERVER_H
-//

@@ -27,4 +27,4 @@ public slots:
 };
 
 #endif // CHATCLIENT_H
-//
+
