@@ -153,7 +153,7 @@ QScrollBar::sub-line {
     <item>
      <widget class="QLabel" name="titleLabel">
       <property name="text">
-       <string>汤福高的聊天室</string>
+       <string>罗永杰的聊天室</string>
       </property>
      </widget>
     </item>
