@@ -39,3 +39,4 @@ private:
     ChatClient *m_chatClient;
 };
 #endif // MAINWINDOW_H
+//
